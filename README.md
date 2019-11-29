@@ -7,3 +7,5 @@
 ![none](http://www.plantuml.com/plantuml/png/fL71IiD043rtlsB8IGy5Fq2agUT0RfwNP6r3qwniDdYmGec8YBc9Hn7_eAbMr99-m-mV-KfIwRs7MTw-UVlc3Jl8hJIscAOYdoJPbJHoIZAosj2Dw0rbD1aPNMJnkKv1NOmJgqJFDqPVjymmXGH2RM9bzgdRFRyYLv7CrS6EgRgqP3MPP3Is52T6HJRHcMZpXYSaS_BucJUyHdrouvxuXro9ov8NRixVxj5LNgSFEltRji4rRznyrmgx3Y_mSCLhuXU03y36LJYNS7huzsd5hvZoHVphxjmzODDEzyHkUR-LlICN716dT1Ln3Nd9AqIeKGZjYP3wVJhoZmLg2mE1pKvdGA48GCpE45qCL1RZr_u0)
 # Лабораторная 2
 ![none](https://github.com/CapitCamel/CapitCamel.github.io/blob/master/model1.png)
+![none](https://github.com/CapitCamel/CapitCamel.github.io/blob/master/model2.png)
+![none](https://github.com/CapitCamel/CapitCamel.github.io/blob/master/model3.png)
