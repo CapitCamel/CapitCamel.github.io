@@ -12,7 +12,7 @@
 # Лабораторная 3
 ![none](http://www.plantuml.com/plantuml/png/XP91IiD068NtSugVxhs0YFGgqwPWeKrYCkBMLjI5tOYwSHEyGPeOZDL9h_3cHhx-AgW4NNGOvl--Dwz9XhcpcJkPpumTkoIJ0GgKgD3WLN3FJSsj3okk5TfmDH2RIseYw-p8vXFoDxYJS8OcN9BPXYKwL4eTcvJHq_4qjR4Z-02FbdbbFputuoHsMJ8Z-iZJPpoXLAKHhCCvqORYchyE7Abqv5pwpIjqM2cuGTdh2JmNGXlE5ffoEXdzwdgBxgDQkCPBJungaJ6fx1rg2TaN57f1_QLg0zRtg2cr7BNwB7LeLABCk-d-Uw4XjyCZmZ_-9XFX_v8EFXjgGJNOXAyNPLY6bM2xAoVmFEieNg3Jfcyij61SQuQJEE87yWu0)
 # Лабораторная 4
-[Объект исследований -] Программные продукты для управления проектами
+*Объект исследований -* Программные продукты для управления проектами
 [Предмет исследования - ] Гибкие методологии разработки
 [Цель моделирования -]  Определение процессов, на основе которых будут созданы программные продукты для управления проектами
 
