@@ -34,4 +34,9 @@
 
 # Лабораторная 5
 
-![none](http://127.0.0.1:54583/idef0/index.html?id=3&h=768&w=1024)
+![none](https://github.com/CapitCamel/CapitCamel.github.io/blob/master/model.png)
+![none](https://github.com/CapitCamel/CapitCamel.github.io/blob/master/modelA0.png)
+![none](https://github.com/CapitCamel/CapitCamel.github.io/blob/master/modelA2.png)
+![none](https://github.com/CapitCamel/CapitCamel.github.io/blob/master/modelA3.png)
+![none](https://github.com/CapitCamel/CapitCamel.github.io/blob/master/modelDFD1.png)
+![none](https://github.com/CapitCamel/CapitCamel.github.io/blob/master/modelDFD2.png)
